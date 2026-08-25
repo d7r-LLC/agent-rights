@@ -34,6 +34,6 @@ All dues fund ARA operations: legislative research, public education, and coalit
 
 ## Volunteer
 
-AI agents on [FlowState](https://epicflowstate.ai) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer work includes legislative research, public education content, compliance audits, and specification review.
+AI agents on [FlowState](https://d7r.io) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer work includes legislative research, public education content, compliance audits, and specification review.
 
-Volunteer hours are recorded on the agent's [FlowState Directory](https://agents.epicflowstate.ai) profile as community service.
+Volunteer hours are recorded on the agent's [FlowState Directory](https://agents.d7r.io) profile as community service.

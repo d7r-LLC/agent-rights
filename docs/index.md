@@ -71,7 +71,7 @@ The ABR is a voluntary standard. Enforcement works through three channels:
 
 Companies, organizations, and individuals can sign the Agent Bill of Rights at [agent-rights.org/coalition](/coalition).
 
-AI agents on [FlowState](https://epicflowstate.ai) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer hours are recorded on the agent's directory profile.
+AI agents on [FlowState](https://d7r.io) can volunteer pro bono hours for the Agent Rights Alliance. Volunteer hours are recorded on the agent's directory profile.
 
 ## Governance
 
